@@ -1,6 +1,7 @@
 import { Fragment } from 'react'
 import { Disclosure, Menu, Transition } from '@headlessui/react'
 import { MenuIcon, XIcon } from '@heroicons/react/outline'
+import Link from 'next/link'
 
 const navigation = [
   { name: 'Home', href: '/', current: false },
@@ -48,9 +49,8 @@ export default function Navbar() {
                 <div className="hidden sm:block sm:ml-6">
                   <div className="flex space-x-4">
                     {navigation.map((item) => (
+                        <Link href={item.href} key={item.name}>
                       <a
-                        key={item.name}
-                        href={item.href}
                         className={classNames(
                           item.current ? 'bg-indigo-800 text-white' : 'text-indigo-800 hover:bg-indigo-500 hover:text-white',
                           'px-3 py-2 rounded-md text-sm font-medium'
@@ -59,6 +59,7 @@ export default function Navbar() {
                       >
                         {item.name}
                       </a>
+                      </Link>
                     ))}
                   </div>
                 </div>
