@@ -91,7 +91,7 @@ export default function ListBox() {
   }
 
   return (
-    <div className="w-48 mt-3">
+    <div className="w-full m-3">
       <Listbox value={selected} onChange={hell} className="bg z-20 relative bg-indigo-400 rounded-lg text-white backdrop-blur-md bg-opacity-50" >
         <div className="relative mt-1">
           <Listbox.Button className="relative w-full py-2 pl-3 pr-10 z-20 text-left  shadow-md cursor-default focus:outline-none focus-visible:ring-2 focus-visible:ring-opacity-75 focus-visible:ring-white focus-visible:ring-offset-orange-300 focus-visible:ring-offset-2 focus-visible:border-indigo-500 sm:text-sm">
@@ -114,7 +114,7 @@ export default function ListBox() {
                 <Listbox.Option
                   key={personIdx}
                   className={({ active }) =>
-                    `${active ? 'text-amber-900 bg-amber-100' : 'text-gray-900'}
+                    `${active ? 'text-gray-900 bg-amber-100' : 'text-gray-900'}
                           cursor-default select-none relative py-2 pl-2 pr-4 z-20 hover:bg-gray-400 hover:bg-opacity-50 hover:backdrop-blur-md hover:rounded-md`
                   }
                   value={person}
