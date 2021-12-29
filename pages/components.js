@@ -12,84 +12,85 @@ export default function Components() {
           <link rel="icon" href="/favicon.ico" />
         </Head>
         <main className="container">
-        <aside className="bg-gray-700 card">
-          <ListBox />
-        </aside>
-        <section className="bg-gray-200 ml-3 mt-3">
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-          <p>Lorem ipsum dolor </p>
-        </section>
-    </main>
+          <aside className="bg-gray-700 card">
+            <ListBox />
+          </aside>
+          <section className="bg-gray-200 ml-3 mt-3">
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+            <p>Lorem ipsum dolor </p>
+          </section>
+        </main>
+
       </div>
-      
+
     </>
   )
 }
