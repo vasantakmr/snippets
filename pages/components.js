@@ -17,6 +17,75 @@ export default function Components() {
         </aside>
         <section className="bg-gray-200 ml-3 mt-3">
           <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
+          <p>Lorem ipsum dolor </p>
         </section>
     </main>
       </div>

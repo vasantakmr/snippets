@@ -1,17 +1,18 @@
 import { Fragment, useState } from 'react'
 import { Listbox, Transition, RadioGroup } from '@headlessui/react'
 import { CheckIcon, SelectorIcon } from '@heroicons/react/solid'
+import Link from 'next/link'
 
 const people = [
     {
         name: 'Git',
         values: [
-            { name: 'All' },
-            { name: 'Branches' },
-            { name: 'Configuration' },
-            { name: 'Remotes' },
-            { name: 'Repository' },
-            { name: 'Plumbing commands' },
+            { name: 'All' , href: '/git-all'},
+            { name: 'Branches', href: '/git-branches' },
+            { name: 'Configuration' , href: '/configuration'},
+            { name: 'Remotes', href: '/remotes' },
+            { name: 'Repository', href: '/repository' },
+            { name: 'Plumbing commands', href: '/plubling-commands' },
         ],
     },
     {
@@ -151,8 +152,9 @@ export default function ListBox() {
           <RadioGroup.Label className="sr-only">Server size</RadioGroup.Label>
           <div className="space-y-2">
             {selected.values.map((plan) => (
+                <a href={plan.href} key={plan.name}  className="mt-1">
               <RadioGroup.Option
-                key={plan.name}
+                key={plan.name} 
                 value={plan.name}
                 className={({ active, checked }) =>
                   `${
@@ -163,7 +165,7 @@ export default function ListBox() {
                   ${
                     checked ? 'bg-sky-900 bg-opacity-75 text-white' : 'bg-white'
                   }
-                    relative rounded-lg px-5 py-2 cursor-pointer flex focus:outline-none`
+                    relative rounded-lg mt-1 px-5 py-2 cursor-pointer flex focus:outline-none`
                 }
               >
                 {({ active, checked }) => (
@@ -190,6 +192,7 @@ export default function ListBox() {
                   </>
                 )}
               </RadioGroup.Option>
+              </a>
             ))}
           </div>
         </RadioGroup>
